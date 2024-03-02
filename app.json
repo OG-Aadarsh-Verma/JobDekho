@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "JobDekho",
+    "slug": "JobDekho",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3c100490-e796-4a88-8eff-9663a8ee0bc0"
+      }
+    },
+    "android": {
+      "package": "com.ogaadarshverma.example.JobDekho"
+    }
+  }
+}
